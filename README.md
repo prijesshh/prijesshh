@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hi, I'm Prijesh Pradhan
 
-<!--
-**prijesshh/prijesshh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering student from Nepal  
+Curious learner with an interest in programming, problem-solving, and technology
 
-Here are some ideas to get you started:
+## What I'm Working On
+- Learning Python from basics to advanced  
+- Building small projects to strengthen fundamentals  
+- Exploring C/C++, data structures, and problem-solving  
+- Slowly moving toward machine learning & data analysis  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tools & Technologies
+- **Languages:** Python, C, C++  
+- **Tools:** Git, GitHub, VS Code  
+
+## 📫 How to Reach Me
+- **Gmail:** prijeshpradhan@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/prijeshpradhan/
