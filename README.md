@@ -55,7 +55,7 @@ I'm actively exploring opportunities in:
 
 - **Email:** [prijeshpradhan@gmail.com](mailto:prijeshpradhan@gmail.com)
 - **LinkedIn:** [linkedin.com/in/prijeshpradhan](https://www.linkedin.com/in/prijeshpradhan/)
-- **Location:** Kathmandu, Nepal 🇳�🇵
+- **Location:** Kathmandu, Nepal 
 
 ---
 
