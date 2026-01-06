@@ -43,11 +43,6 @@ I'm actively exploring opportunities in:
 - 💼 Internships in AI/ML, IoT, or cybersecurity
 - 🌐 Collaborations on internet governance and DNS security initiatives
 
-## 📊 GitHub Stats
-
-![Prijesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prijesshh&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prijesshh&layout=compact&theme=radical&hide_border=true)
 
 ## 🌟 Fun Facts
 
