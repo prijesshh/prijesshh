@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+🎓;Python+%7C+C%2FC%2B%2B+Enthusiast+💻;Problem+Solver+%26+Tech+Explorer+🚀;From+Nepal+🇳🇵" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+🎓;Python+%7C+C%2FC%2B%2B+Enthusiast+💻;Problem+Solver+%26+Tech+Explorer+🚀;Football+Fan+⚽;From+Nepal+🇳🇵" alt="Typing SVG" />
 
 </div>
 
@@ -39,8 +39,7 @@
 ## 🏟️ **WELCOME TO THE BERNABÉU** 🏟️
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0HlN5Y28D9MzzcRy/giphy.gif" width="400" alt="Real Madrid Celebration"/>
-  <img src="https://media.giphy.com/media/3oEjHXsFnzWPS8V3JS/giphy.gif" width="400" alt="Football Skills"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBmYjRlOTc4ZjE4ZjQwOWI0ZDQ5NmVhYjU4YzI5ZmU5YzZjYmQyNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l0HlN5Y28D9MzzcRy/giphy.gif" width="500" alt="Stadium Celebration"/>
 </div>
 
 ---
@@ -71,7 +70,7 @@
 
 ### 🚧 Building My Portfolio 🚧
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Coding"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGx0aGo4cjZ1OGgyZGhiZmVlZGN1YTQ4YWE3MjhlZWo4YXBvNzc1MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Coding"/>
 
 **Coming Soon:**
 - Python automation scripts
@@ -89,9 +88,10 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/3oKIPlifLxdigaD2Y8/giphy.gif" width="400" alt="Football"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWp1aXRzd2ZjejZzbjM1dHk3bnlreHgyMXNoeTFjajhoZmlyOXhzNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPlifLxdigaD2Y8/giphy.gif" width="400" alt="Football"/>
 
 When I'm not coding, you'll find me watching football matches!  
+A proud supporter of **Real Madrid** ⚪ - their never-give-up attitude inspires my approach to debugging! 😄
 
 </div>
 
@@ -117,5 +117,6 @@ When I'm not coding, you'll find me watching football matches!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=prijesshh&color=blue&style=flat-square&label=Profile+Views)
 
+**Made with 💙 by Prijesh**
 
 </div>
