@@ -115,8 +115,5 @@ A proud supporter of **Real Madrid** ⚪ - their never-give-up attitude inspires
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=fadeIn" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=prijesshh&color=blue&style=flat-square&label=Profile+Views)
-
-**Made with 💙 by Prijesh**
 
 </div>
