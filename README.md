@@ -10,10 +10,6 @@
 
 ## 🙋‍♂️ **About Me**
 
-<div align="center">
-<img src="https://github.com/prijesshh/prijesshh/assets/your-asset-id/unicorn.gif" onerror="this.src='https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Unicorn.png'" width="400" alt="Unicorn"/>
-</div>
-
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 
 🎓 **Computer Engineering Student** from Nepal  
@@ -40,15 +36,10 @@
 
 ---
 
-## 📊 **GitHub Stats**
+## 🏟️ **WELCOME TO THE BERNABÉU** 🏟️
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prijesshh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=FFD700&text_color=FFFFFF" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prijesshh&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=FFD700&fire=FFD700&currStreakLabel=3B82F6" alt="GitHub Streak" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prijesshh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF" alt="Top Languages" />
-
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWd5bTB3N2oyNjFqZTcwNWVoN2U2NWRkMHBiOTBhZWRpdGJmejVmYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlN5Y28D9MzzcRy/giphy.gif" width="600" alt="Unicorn Stadium Celebration"/>
 </div>
 
 ---
