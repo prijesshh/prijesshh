@@ -38,8 +38,7 @@
 
 ## 🏟️ **WELCOME TO THE BERNABÉU** 🏟️
 
-<div align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWd5bTB3N2oyNjFqZTcwNWVoN2U2NWRkMHBiOTBhZWRpdGJmejVmYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlN5Y28D9MzzcRy/giphy.gif" width="600" alt="Unicorn Stadium Celebration"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=¡Hala+Madrid!+⚽;Computer+Engineering+Student+🎓;Python+%7C+C%2FC%2B%2B+Developer+💻;Real+Madrid+Fan+Forever+🏆;From+Nepal+with+Love+🇳🇵" alt="Typing SVG" />
 </div>
 
 ---
@@ -91,7 +90,6 @@
 <img src="https://media.giphy.com/media/3oKIPlifLxdigaD2Y8/giphy.gif" width="400" alt="Football"/>
 
 When I'm not coding, you'll find me watching football matches!  
-A proud supporter of **Real Madrid** ⚪ - their never-give-up attitude inspires my approach to debugging! 😄
 
 </div>
 
@@ -117,6 +115,5 @@ A proud supporter of **Real Madrid** ⚪ - their never-give-up attitude inspires
 
 ![Profile Views](https://komarev.com/ghpvc/?username=prijesshh&color=blue&style=flat-square&label=Profile+Views)
 
-**Made with 💙 by Prijesh**
 
 </div>
