@@ -10,6 +10,10 @@
 
 ## 🙋‍♂️ **About Me**
 
+<div align="center">
+<img src="https://github.com/prijesshh/prijesshh/assets/your-asset-id/unicorn.gif" onerror="this.src='https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Unicorn.png'" width="400" alt="Unicorn"/>
+</div>
+
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 
 🎓 **Computer Engineering Student** from Nepal  
