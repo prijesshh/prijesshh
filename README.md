@@ -38,7 +38,9 @@
 
 ## 🏟️ **WELCOME TO THE BERNABÉU** 🏟️
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=¡Hala+Madrid!+⚽;Computer+Engineering+Student+🎓;Python+%7C+C%2FC%2B%2B+Developer+💻;Real+Madrid+Fan+Forever+🏆;From+Nepal+with+Love+🇳🇵" alt="Typing SVG" />
+<div align="center">
+  <img src="https://media.giphy.com/media/l0HlN5Y28D9MzzcRy/giphy.gif" width="400" alt="Real Madrid Celebration"/>
+  <img src="https://media.giphy.com/media/3oEjHXsFnzWPS8V3JS/giphy.gif" width="400" alt="Football Skills"/>
 </div>
 
 ---
