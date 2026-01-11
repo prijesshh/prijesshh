@@ -91,7 +91,6 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWp1aXRzd2ZjejZzbjM1dHk3bnlreHgyMXNoeTFjajhoZmlyOXhzNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPlifLxdigaD2Y8/giphy.gif" width="400" alt="Football"/>
 
 When I'm not coding, you'll find me watching football matches!  
-A proud supporter of **Real Madrid** ⚪ - their never-give-up attitude inspires my approach to debugging! 😄
 
 </div>
 
