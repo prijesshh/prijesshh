@@ -1,118 +1,169 @@
-# <div align="center">👋 Hi, I'm Prijesh Pradhan</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Prijesh%20Pradhan&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Computer%20Engineer%20in%20Progress%20%E2%80%A2%20Builder%20%E2%80%A2%20Perpetual%20Learner&descAlignY=62&descSize=15&animation=fadeIn" width="100%"/>
 
 <div align="center">
-  
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+🎓;Python+%7C+C%2FC%2B%2B+Enthusiast+💻;Problem+Solver+%26+Tech+Explorer+🚀;From+Nepal+🇳🇵" alt="Typing SVG" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=818CF8&center=true&vCenter=true&width=650&lines=Computer+Engineering+%40+KEC%2C+Tribhuvan+University;Python+%7C+C+%7C+C%2B%2B+%7C+Always+Learning+More;Hackathon+Builder+%E2%80%94+KOVA%2FArc+%7C+Iris+%7C+LaganiSetu;Internet+Governance+%7C+APIGA+Nepal+%7C+ICANN+NextGen;From+Kathmandu%2C+Nepal+%F0%9F%87%B3%F0%9F%87%B5)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🙋‍♂️ **About Me**
+## `whoami`
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+I'm a **Computer Engineering student** at Kantipur Engineering College (KEC), Tribhuvan University — building real things with code, competing in hackathons, and working on the intersection of software, AI, and digital policy. Still early in the journey, but shipping consistently.
 
-🎓 **Computer Engineering Student** from Nepal  
-💻 **Learning:** Python, C/C++, and Data Structures  
-⚽ **Passion:** Football (especially Real Madrid) & Technology  
-🏔️ **Location:** Kathmandu, Nepal  
-🎯 **Focus:** Building projects and strengthening fundamentals  
-
-<br clear="right"/>
+```python
+prijesh = {
+    "education":   "B.E. Computer Engineering — KEC, Tribhuvan University (Year II)",
+    "location":    "Kathmandu, Nepal 🇳🇵",
+    "languages":   ["Python", "C", "C++"],
+    "exploring":   ["Data Structures & Algorithms", "AI/ML", "Internet Governance"],
+    "building":    "Projects that solve personal pain points first, then scale",
+    "goal":        "Grow consistently. Ship things. Leave a mark.",
+}
+```
 
 ---
 
-## 🛠️ **Tech Stack**
+## 🛠️ Tech Stack
+
+**Languages I work with**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**Tools & Environment**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Currently picking up**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+---
+
+## 📂 Projects
+
+> These are the things I've actually built — console apps today, ML systems tomorrow.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 [WellnessHub](https://github.com/prijesshh/WellnessHub)
+**C++ · Health Tracker**
+
+Comprehensive console-based health dashboard. Tracks BMI, blood pressure, weight, calories, sleep & water intake with PIN-secured access and persistent local storage.
+
+`C++` `STL` `File I/O` `OOP`
+
+</td>
+<td width="50%" valign="top">
+
+### 💰 [Budget Tracker](https://github.com/prijesshh/budget_tracker)
+**C · Personal Finance**
+
+Lightweight offline finance manager. Tracks income, expenses and budget ceilings with no cloud dependency — privacy-first by design.
+
+`C` `Structs` `File Handling`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✅ [To-Do List](https://github.com/prijesshh/to-do-list)
+**C++ · Productivity**
+
+Command-line task manager with persistent file-based storage. Clean CLI interface, sessions survive restarts.
+
+`C++` `File I/O` `STL`
+
+</td>
+<td width="50%" valign="top">
+
+### 📘 [Learn Git & GitHub](https://github.com/prijesshh/Learn-Git-GIthub)
+**Markdown · Documentation**
+
+A beginner-friendly, practical guide to Git & GitHub — written to help fellow students get past the intimidating first commit.
+
+`Git` `Markdown` `Documentation`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Beyond the Repository
+
+My most impactful work lives off GitHub (for now). Here's a snapshot:
+
+| | Achievement | Context |
+|---|---|---|
+| 🥇 | **Model Demonstration Competition — 1st Place** | Built **KOVA/Arc** — a multi-agent AI orchestration platform — @ KEC |
+| ⚡ | **Hackathon Portfolio** | **Iris** (AI-powered), **LaganiSetu** (Nepal startup-investor matching), **Lumen Harp**, **IGNITE** (ML waste-to-energy) |
+| 🌐 | **APIGA Nepal Participant** | South Asia's premier internet governance youth program |
+| 🎯 | **ICANN Next Generation** | Developing policy research on internet shutdowns & digital stability indexes |
+| 🔬 | **ML Project** | Decision Tree classifier on UCI Heart Disease dataset — with K-Means clustering + PCA visualization |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-### Languages & Tools
-<img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,vscode,linux" alt="Tech Stack" />
+<img src="https://github-readme-stats.vercel.app/api?username=prijesshh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=818CF8&icon_color=818CF8" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prijesshh&layout=compact&theme=tokyonight&hide_border=true&title_color=818CF8" height="170"/>
 
-### Currently Exploring
-<img src="https://skillicons.dev/icons?i=docker,mongodb,mysql" alt="Learning" />
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=prijesshh&theme=tokyonight&hide_border=true&ring=818CF8&fire=818CF8&currStreakLabel=818CF8" height="165"/>
 
 </div>
 
 ---
 
-## 🏟️ **WELCOME TO THE BERNABÉU** 🏟️
+## 🗺️ Growth Roadmap
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBmYjRlOTc4ZjE4ZjQwOWI0ZDQ5NmVhYjU4YzI5ZmU5YzZjYmQyNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l0HlN5Y28D9MzzcRy/giphy.gif" width="500" alt="Stadium Celebration"/>
-</div>
-
----
-
-## 🎯 **What I'm Working On**
-
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250"/>
-
-**Current Focus:**
-- 🐍 Mastering Python fundamentals
-- 💾 Building projects with C/C++
-- 📊 Learning Data Structures & Algorithms
-- 🔍 Exploring problem-solving techniques
-
-**Goals:**
-- Build practical projects to apply my learning
-- Contribute to open-source when ready
-- Improve coding skills consistently
-- Stay curious and keep learning
-
-<br clear="right"/>
+```
+[██████████] Foundations      → C, C++, Python basics, Git, OOP
+[███████░░░] Core CS          → DSA in progress, Theory of Computation, Microprocessors
+[████░░░░░░] Applied AI/ML    → Decision Trees, K-Means, PCA — building experience
+[██░░░░░░░░] Systems Thinking → Internet governance, multi-agent AI (KOVA/Arc)
+[░░░░░░░░░░] Full-stack dev   → Next milestone
+[░░░░░░░░░░] Open Source      → Contributions planned as skills compound
+[░░░░░░░░░░] Research / Grad  → Long-term target: master's abroad, then build in Nepal
+```
 
 ---
 
-## 💼 **Projects**
+## 🤝 Let's Connect
 
 <div align="center">
 
-### 🚧 Building My Portfolio 🚧
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGx0aGo4cjZ1OGgyZGhiZmVlZGN1YTQ4YWE3MjhlZWo4YXBvNzc1MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Coding"/>
-
-**Coming Soon:**
-- Python automation scripts
-- C++ problem-solving projects
-- Data structure implementations
-- Personal coding experiments
-
-*Stay tuned as I build and share my work!*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-prijeshpradhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prijeshpradhan/)
+[![Email](https://img.shields.io/badge/Email-prijeshpradhan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prijeshpradhan@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-prijesshh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prijesshh)
+[![Instagram](https://img.shields.io/badge/Instagram-_prijesshh-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_prijesshh/)
 
 </div>
 
----
-
-## ⚽ **Fun Fact**
+<br/>
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWp1aXRzd2ZjejZzbjM1dHk3bnlreHgyMXNoeTFjajhoZmlyOXhzNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPlifLxdigaD2Y8/giphy.gif" width="400" alt="Football"/>
-
-When I'm not coding, you'll find me watching football matches!  
-
+<i>Open to conversations about code, AI, internet governance, or building things that matter.</i>
 </div>
 
----
+<br/>
 
-## 📫 **Let's Connect**
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prijeshpradhan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prijeshpradhan/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prijesshh)
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Open to connecting and learning together!</b></em>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=fadeIn" />
-
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&animation=fadeIn" width="100%"/>
