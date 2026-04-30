@@ -56,7 +56,6 @@ My most impactful work lives off GitHub (for now). Here's a snapshot:
 | 🥇 | **Model Demonstration Competition — 1st Place** | Built **KOVA/Arc** — a multi-agent AI orchestration platform — @ KEC |
 | ⚡ | **Hackathon Portfolio** | **Iris** (AI-powered), **LaganiSetu** (Nepal startup-investor matching), **Lumen Harp**, **IGNITE** (ML waste-to-energy) |
 | 🌐 | **APIGA Nepal Participant** | South Asia's premier internet governance youth program |
-| 🎯 | **ICANN Next Generation** | Developing policy research on internet shutdowns & digital stability indexes |
 | 🔬 | **ML Project** | Decision Tree classifier on UCI Heart Disease dataset — with K-Means clustering + PCA visualization |
 
 ---
