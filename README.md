@@ -38,66 +38,12 @@ prijesh = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Currently picking up**
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
----
-
-## 📂 Projects
-
-> These are the things I've actually built — console apps today, ML systems tomorrow.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏥 [WellnessHub](https://github.com/prijesshh/WellnessHub)
-**C++ · Health Tracker**
-
-Comprehensive console-based health dashboard. Tracks BMI, blood pressure, weight, calories, sleep & water intake with PIN-secured access and persistent local storage.
-
-`C++` `STL` `File I/O` `OOP`
-
-</td>
-<td width="50%" valign="top">
-
-### 💰 [Budget Tracker](https://github.com/prijesshh/budget_tracker)
-**C · Personal Finance**
-
-Lightweight offline finance manager. Tracks income, expenses and budget ceilings with no cloud dependency — privacy-first by design.
-
-`C` `Structs` `File Handling`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ✅ [To-Do List](https://github.com/prijesshh/to-do-list)
-**C++ · Productivity**
-
-Command-line task manager with persistent file-based storage. Clean CLI interface, sessions survive restarts.
-
-`C++` `File I/O` `STL`
-
-</td>
-<td width="50%" valign="top">
-
-### 📘 [Learn Git & GitHub](https://github.com/prijesshh/Learn-Git-GIthub)
-**Markdown · Documentation**
-
-A beginner-friendly, practical guide to Git & GitHub — written to help fellow students get past the intimidating first commit.
-
-`Git` `Markdown` `Documentation`
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -133,20 +79,6 @@ My most impactful work lives off GitHub (for now). Here's a snapshot:
 
 ---
 
-## 🗺️ Growth Roadmap
-
-```
-[██████████] Foundations      → C, C++, Python basics, Git, OOP
-[███████░░░] Core CS          → DSA in progress, Theory of Computation, Microprocessors
-[████░░░░░░] Applied AI/ML    → Decision Trees, K-Means, PCA — building experience
-[██░░░░░░░░] Systems Thinking → Internet governance, multi-agent AI (KOVA/Arc)
-[░░░░░░░░░░] Full-stack dev   → Next milestone
-[░░░░░░░░░░] Open Source      → Contributions planned as skills compound
-[░░░░░░░░░░] Research / Grad  → Long-term target: master's abroad, then build in Nepal
-```
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -154,7 +86,7 @@ My most impactful work lives off GitHub (for now). Here's a snapshot:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-prijeshpradhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prijeshpradhan/)
 [![Email](https://img.shields.io/badge/Email-prijeshpradhan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prijeshpradhan@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-prijesshh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prijesshh)
-[![Instagram](https://img.shields.io/badge/Instagram-_prijesshh-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_prijesshh/)
+[![Instagram](https://img.shields.io/badge/Instagram-_prijesshh-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_prijessuii/)
 
 </div>
 
